@@ -8,6 +8,8 @@ The project recreates the visual layout and user interface of Amazon’s homepag
 
 This project is ideal for demonstrating front-end fundamentals and is well-suited for GitHub portfolios, internships, and beginner-level web development showcases.
 
+
+
 🎯 Key Objectives
 
 Practice real-world UI cloning
@@ -17,6 +19,8 @@ Strengthen HTML & CSS fundamentals
 Learn Flexbox and Grid-based layouts
 
 Build a professional portfolio project
+
+
 
 ✨ Features
 
@@ -39,16 +43,6 @@ CSS3	Styling, layout, responsiveness
 Flexbox	Alignment and layout
 CSS Grid	Product sections
 
-🚀 Getting Started
-
-Clone the repository:
-
-git clone https://github.com/your-username/amazon-clone.git
-
-
-Open index.html in any modern web browser
-
-No additional setup required
 
 ⚠️ Limitations
 
@@ -57,6 +51,8 @@ Static website (no JavaScript functionality)
 No cart, authentication, or backend integration
 
 UI-focused clone for learning purposes only
+
+
 
 📈 Future Enhancements
 
@@ -68,25 +64,26 @@ Improve mobile responsiveness
 
 Convert to React-based application
 
+
+
 🙌 Acknowledgements
 
 UI inspired by Amazon.com
 
 Created strictly for educational and practice purposes
 
+
+
 👩‍💻 Author
 
 Divya Joshi
 💼 Aspiring Front-End / Web Developer
+
 
 📜 License
 
 This project is intended for educational use only.
 It is not affiliated with or endorsed by Amazon.
 
+
 ⭐ If you like this project, consider giving it a star on GitHub!
-
-
-🧑‍💼 Internship-ready project explanation
-
-Just tell me 👍
